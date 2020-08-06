@@ -1,6 +1,6 @@
 # Stephen Igwue
 
-This is a brief readme of Stephen Igwue, stigwue, Schrödinger's Boss or whatever moniker he goes by nowadays.
+This is a brief readme of stigwue, Schrödinger's Boss, Stephen Igwue, or whatever moniker he goes by nowadays.
 
 ## Contents
 
