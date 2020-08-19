@@ -21,9 +21,7 @@ Erm, let's see. Well, how do I explain it to you, ma'am. Okay, let's start from 
 
 ## Up Next
 
-* Introduce the version 3 of this old thing
-
-* Move this other thing from private alpha to limited open beta
+* Wouldn't you like to know? Keep your eyes peeled!
 
 
 
