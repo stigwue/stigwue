@@ -16,7 +16,11 @@ What haven't I done? Okay, that's a bit pompous. Let's see: a lottery stint (sev
 
 * What are you up to now?
 
-Erm, let's see. Well, how do I explain it to you, ma'am. Okay, let's start from how this sector works currently... _several minutes later_ Yeah, so you see how we are trying to make it more efficient? Bringing in formerly uncaptured value?
+Erm, let's see. Well, how do I explain it to you, ma'am. Okay, let's start from how this sector works currently...
+
+_several minutes later_
+
+Yeah, so you see how we are trying to make it more efficient? Bringing in formerly uncaptured value?
 
 
 ## Up Next
