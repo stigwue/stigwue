@@ -14,4 +14,4 @@ Let's see: a lottery stint, education (a couple of times too), social health and
 
 * What are you up to now?
 
-Sufficiently advanced technology is indistinguishable from magic. How is working at making magic possible sound?
+Sufficiently advanced technology is indistinguishable from magic. How does "working at making magic possible" sound?
