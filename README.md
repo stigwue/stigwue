@@ -1,17 +1,11 @@
-# Stephen Igwue
+# About
 
-This is a brief of stigwue, Schrödinger's Boss, Stephen Igwue, or whatever moniker he goes by nowadays.
+I work at making magic possible. Arthur Clarke postulated that _any sufficiently advanced technology is indistinguishable from magic_. I work at building the blocks that make waving around a wand work in Nigeria: some of it in education, a lottery stint, social health and distribution of especially consumer packaged goods.
 
-## FAQ
+I also go by the _Schrödinger's Boss_ moniker, that teacher-learner duality? Yes.
 
-* What is it that you do?
+## Others
 
-Sofware Developer: behind the scenes baking the bricks that come together to give you a useful application.
+I write. No, I am not going to tell you my pseudonym but [The Boolean Life](https://boolean.substack.com) has a few thoughts I sometimes catch myself expressing to friends.
 
-* What have you done?
-
-Let's see: a lottery stint, education (a couple of times too), social health and distribution of especially consumer packaged goods.
-
-* What are you up to now?
-
-Sufficiently advanced technology is indistinguishable from magic. How does "working at making magic possible" sound?
+Oh, here's a [bio on Twitter (@stigwue)](https://twitter.com/stigwue/status/1241291765954600960?s=20).
