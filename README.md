@@ -6,6 +6,6 @@ I also go by the _Schrödinger's Boss_ moniker, that teacher-learner duality? Ye
 
 ## Others
 
-I write. No, I am not going to tell you my pseudonym but [The Boolean Life](https://boolean.substack.com) has a few thoughts I sometimes catch myself expressing to friends.
+I write. No, I am not going to tell you my pseudonym, yet.
 
 Oh, here's a [bio on Twitter (@stigwue)](https://twitter.com/stigwue/status/1241291765954600960?s=20).
